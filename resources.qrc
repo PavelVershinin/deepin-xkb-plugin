@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>en.png</file>
+        <file>ru.png</file>
+    </qresource>
+</RCC>
