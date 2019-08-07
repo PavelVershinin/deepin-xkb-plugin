@@ -7,20 +7,12 @@
 #!/usr/bin/env xdg-open
 
 [Desktop Entry]
-Version=1.0
 Name=deepin-xkb-plugin
 Comment=Индикатор раскладки клавиатуры
 Exec=/usr/bin/deepin-xkb-plugin
-Terminal=false
-X-MultipleArgs=false
-Type=Application
-Icon=
-Categories=Network;
-StartupNotify=true
-X-Deepin-CreatedBy=com.deepin.SessionManager
-X-Deepin-AppID=deepin-xkb-plugin
-Hidden=false
-
+Terminal=false 
+X-MultipleArgs=false 
+Type=Application 
 
 Перезагружаем комп и наслаждаемся)))
 
